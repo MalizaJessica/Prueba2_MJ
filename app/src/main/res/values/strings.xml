@@ -21,4 +21,8 @@
    <string name="title_background_color_dialog">Choose Background Color</string>
    <string name="title_line_width_dialog">Choose Line Width</string>
    <string name="permission_explanation">To save an image, the app requires permission to write to external storage</string>
+
+   <string name="edittext_hint_usuario">usuario</string>
+   <string name="edittext_hint_contrasena">contrasena</string>
+   <string name="btn_Ingresar">Ingresar</string>
 </resources>

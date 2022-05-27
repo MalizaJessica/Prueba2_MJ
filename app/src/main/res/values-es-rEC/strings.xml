@@ -22,4 +22,8 @@
     <string name="title_background_color_dialog">Elegir color de fondo</string>
     <string name="title_line_width_dialog">Elegir ancho de línea</string>
     <string name="permission_explanation">Para guardar una imagen, la aplicación requiere permiso para escribir en el almacenamiento externo</string>
+
+    <string name="edittext_hint_usuario">usuario</string>
+    <string name="edittext_hint_contrasena">contrasena</string>
+    <string name="btn_Ingresar">Ingresar</string>
 </resources>
